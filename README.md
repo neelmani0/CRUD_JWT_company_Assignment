@@ -1,4 +1,4 @@
-# CRUD_JWT_company_Assignment
+# CRUD_company_Assignment
 
 # JS-VITE-WITH-MOCK-SERVER
 
